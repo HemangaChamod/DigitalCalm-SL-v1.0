@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "836845831976",
+    "project_id": "digitalcalm",
+    "storage_bucket": "digitalcalm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836845831976:android:5c0b468da212ec4f71321d",
+        "android_client_info": {
+          "package_name": "com.anonymous.digitalcalmslapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836845831976-romg9nudl5409il7goj37mc09dqeu2ec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anonymous.digitalcalmslapp",
+            "certificate_hash": "270c4956970aa4e23d64ce31e2d28e9eac7fe942"
+          }
+        },
+        {
+          "client_id": "836845831976-r72jhl9drb7ul9ksuaobpr9u1t2cdaf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5PIJ_FOgGyB8ugnSnt4gGi8YgoOvqi4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836845831976-r72jhl9drb7ul9ksuaobpr9u1t2cdaf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
