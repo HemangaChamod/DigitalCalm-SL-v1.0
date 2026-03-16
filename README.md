@@ -6,12 +6,6 @@ The app analyzes user device usage patterns and generates **personalized mindful
 
 ---
 
-# Vision
-
-To build **Sri Lanka’s first privacy-focused digital well-being companion** that empowers users to take control of their screen habits **without sacrificing personal data**.
-
----
-
 # Key Features
 
 - ✅ View **daily and weekly screen time**
