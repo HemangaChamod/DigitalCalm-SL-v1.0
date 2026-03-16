@@ -68,11 +68,8 @@ You can download the beta release here:
 
 🔗 https://github.com/HemangaChamod/DigitalCalm-SL-v1.0/releases/tag/v1.0-beta
 
----
-
-# Project Status
-
-⚠️ **Pre-Release Version (v1.0 Beta)**  
 This version is an early release and may contain experimental features.
+
+
 
 
