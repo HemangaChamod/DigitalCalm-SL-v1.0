@@ -4,6 +4,8 @@ DigitalCalm SL is a **privacy-focused mobile application** designed to help smar
 
 The app analyzes user device usage patterns and generates **personalized mindfulness nudges using AI** to encourage balanced technology use. Usage behavior is processed through a backend pipeline built with **Firebase Cloud Functions**, **LangChain** for AI workflow orchestration, a **Neo4j graph database** for behavioral pattern detection, and a **Large Language Model (LLM)** to generate supportive digital well-being messages.
 
+The Android application has been successfully deployed to the Google Play Store under the Internal Testing track and is currently available to registered internal testers.
+
 ---
 
 # Key Features
